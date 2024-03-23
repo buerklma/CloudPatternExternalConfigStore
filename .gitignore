@@ -430,3 +430,5 @@ FodyWeavers.xsd
 *.Development.json
 /apps/service1/src/service1/appsettings.Development.json
 /apps/service2/src/service2/appsettings.Development.json
+apps/service1/src/service1/appsettings.Development.json
+apps/service2/src/service2/appsettings.Development.json
