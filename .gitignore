@@ -70,7 +70,7 @@ bld/
 #wwwroot/
 
 # Visual Studio 2017 auto generated files
-Generated\ Files/
+Generated/ Files/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -425,3 +425,6 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,visualstudiocode,visualstudio
+
+*appsettings.Development.json
+*.Development.json
